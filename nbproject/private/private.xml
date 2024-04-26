@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/home/andrianajoro/NetBeansProjects/ProjetJSP/Immobilier/web/WEB-INF/includes/sidebar.jsp</file>
+            <file>file:/home/andrianajoro/NetBeansProjects/ProjetJSP/Immobilier/web/WEB-INF/includes/menu.jsp</file>
+            <file>file:/home/andrianajoro/NetBeansProjects/ProjetJSP/Immobilier/src/java/com/servlet/HomeServlet.java</file>
+            <file>file:/home/andrianajoro/NetBeansProjects/ProjetJSP/Immobilier/web/assets/js/myapps/Register.js</file>
+            <file>file:/home/andrianajoro/NetBeansProjects/ProjetJSP/Immobilier/src/java/com/servlet/ProfilServlet.java</file>
+            <file>file:/home/andrianajoro/NetBeansProjects/ProjetJSP/Immobilier/web/WEB-INF/web.xml</file>
+            <file>file:/home/andrianajoro/NetBeansProjects/ProjetJSP/Immobilier/src/java/com/ajax/JaimeAjax.java</file>
+            <file>file:/home/andrianajoro/NetBeansProjects/ProjetJSP/Immobilier/web/WEB-INF/home-page.jsp</file>
+            <file>file:/home/andrianajoro/NetBeansProjects/ProjetJSP/Immobilier/src/java/com/beans/Utilisateur.java</file>
+            <file>file:/home/andrianajoro/NetBeansProjects/ProjetJSP/Immobilier/src/java/com/database/PubMethod.java</file>
+            <file>file:/home/andrianajoro/NetBeansProjects/ProjetJSP/Immobilier/web/WEB-INF/register-page.jsp</file>
+            <file>file:/home/andrianajoro/NetBeansProjects/ProjetJSP/Immobilier/web/WEB-INF/includes/code_header.jsp</file>
+            <file>file:/home/andrianajoro/NetBeansProjects/ProjetJSP/Immobilier/web/WEB-INF/profil-page.jsp</file>
+            <file>file:/home/andrianajoro/NetBeansProjects/ProjetJSP/Immobilier/src/java/com/ajax/disJaimeAjax.java</file>
+            <file>file:/home/andrianajoro/NetBeansProjects/ProjetJSP/Immobilier/web/WEB-INF/login-page.jsp</file>
+        </group>
+    </open-files>
+</project-private>
